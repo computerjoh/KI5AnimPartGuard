@@ -1,0 +1,6 @@
+name=KI5 Anim Part Guard
+id=KI5AnimPartGuard
+description=Shuts off a vehicle's engine before its chunk unloads, to stop animated parts warping.
+author=local
+category=vehicle
+versionMin=42.21.0
